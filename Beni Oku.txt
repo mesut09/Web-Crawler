@@ -1,0 +1,2 @@
+Projeyi Anaconda Navigator üzerinden Spyder ' la çalıştırınız. 
+Projenin bitmesi yakalşık 2 saati buluyor. Lütfen bekleyiniz.
